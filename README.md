@@ -82,3 +82,8 @@ $ mission
 > — Relentless builder, technical founder, always in production.
 
 ---
+
+## 🐍 Contribution Snake
+
+![github contribution grid snake animation](https://github.com/satwiksharma01/satwiksharma01/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/satwiksharma01/satwiksharma01/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
