@@ -1,90 +1,253 @@
-# <img src="https://github.com/satwiksharma01.png" height="60" /> Satwik Sharma &mdash; AI × Web3 Systems Builder
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=700&color=00FFD0&center=true&multiline=true&width=750&lines=Building+AI-powered+systems+for+the+next+web.)](https://git.io/typing-svg)
+<img src="https://github.com/satwiksharma01.png" width="120" style="border-radius:50%" />
 
----
+# Satwik Sharma
 
-**Hi, I’m Satwik &mdash; I build autonomous, real-time systems at the edge of AI and Web3. My focus: production-quality engineering, startup execution, and solving real market problems.**
+### AI Engineer • Full Stack Developer • Startup Builder
 
----
+Building AI-powered products, automation systems, and scalable web applications.
 
-## 🖥️ System Log
-
-```terminal
-$ whoami
-> AI × Web3 Systems Engineer, product builder, technical storyteller.
-
-$ uptime
-> Deploying real-time bots, crypto models, and data infrastructure since 2020.
-
-$ mission
-> Translate complex ideas into scalable, impactful systems—one product at a time.
-```
-
----
-
-## 🛰️ Live Systems
-
-- **Finbot** &mdash; Autonomous AI Trading Bot (live paper trading, strategy optimization, backtesting)
-    - Real-time market data ingestion 🔀 Signal generation and execution
-- **Chart Pattern Model** &mdash; Crypto prediction pipeline (pattern recognition, feature engineering, multi-metric evaluation)
-- **Motion Graphic Video Generator** &mdash; Programmatic video generation for web3 launches (React-driven, motion-first)
-- **fee-fi-fo-dex / crypto-dex** &mdash; Next-gen DEX proof-of-concept, real-time order flows
-- **Cleerlyst** &mdash; Deep analytics for blockchain & onchain data
-
----
-
-## 🏗️ Architecture Overview
-
-```
-[ Data Ingestion ]
-        │
-   ▼ [ Processing ]
-        │
-   ▼ [ Model & Logic ]
-        │
-   ▼ [ Decision / Action ]
-        │
-   ▼ [ Live Output ]
-```
-
----
-
-## 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![PLpgSQL](https://img.shields.io/badge/PLpgSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satwiksharma01&show_icons=true&theme=react&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwiksharma01&layout=compact&theme=react&hide=html,scss,shell,makefile,md" height="150"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=satwiksharma01&theme=react" height="120"/>
+<p>
+  <a href="https://github.com/satwiksharma01">
+    <img src="https://img.shields.io/github/followers/satwiksharma01?label=Followers&style=for-the-badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=satwiksharma01&style=for-the-badge&color=blue">
 </p>
 
----
-
-## 🔭 Vision
-
-> “The future is real-time, AI-native, transparently decentralized. I build for what’s next—constantly designing, shipping, and scaling systems that rewrite the rules.”  
->  
-> — Relentless builder, technical founder, always in production.
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-</picture> 
+# About Me
+
+I'm an engineering student passionate about building software that solves real-world problems.
+
+My interests lie at the intersection of
+
+- Artificial Intelligence
+- Full Stack Development
+- Automation
+- Blockchain & Web3
+- Real-Time Systems
+- Startup Product Development
+
+Rather than building tutorials, I enjoy building complete products—from backend architecture and APIs to frontend interfaces and deployment.
+
+---
+
+# Currently Building
+
+## HyperRide
+
+A hyperlocal ride-sharing platform inspired by Uber and Rapido.
+
+### Features
+
+- Rider App
+- Driver App
+- Live Ride Tracking
+- Fare Estimation
+- OTP Verification
+- Realtime Driver Matching
+- Admin Dashboard
+
+**Tech**
+
+Flutter • Supabase • PostgreSQL • Edge Functions
+
+---
+
+## FinBot
+
+AI-powered trading assistant.
+
+### Features
+
+- Live Market Analysis
+- Paper Trading
+- Strategy Backtesting
+- Portfolio Tracking
+- AI Insights
+
+**Tech**
+
+Python • FastAPI • PostgreSQL • Docker
+
+---
+
+## Motion Graphics Generator
+
+A programmatic video generation engine built using React and Remotion.
+
+### Features
+
+- AI Script to Video
+- Dynamic Animations
+- Finance Explainer Videos
+- Auto Scene Generation
+- Custom Motion Graphics
+
+---
+
+## Cleerlyst
+
+Blockchain analytics platform focused on structured on-chain intelligence and visualization.
+
+---
+
+# Tech Stack
+
+### Languages
+
+![TypeScript](https://skillicons.dev/icons?i=ts,js,python,java,cpp)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,supabase,firebase)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=postgres,mysql)
+
+### DevOps
+
+![DevOps](https://skillicons.dev/icons?i=docker,git,github,linux)
+
+### AI / ML
+
+- OpenAI API
+- Hugging Face
+- Remotion
+- Python
+- Machine Learning
+- LLM Applications
+
+---
+
+# Engineering Philosophy
+
+```text
+Problem
+    │
+    ▼
+Research
+    │
+    ▼
+Design
+    │
+    ▼
+Build
+    │
+    ▼
+Deploy
+    │
+    ▼
+Iterate
+```
+
+I enjoy shipping quickly, collecting feedback, and continuously improving products instead of chasing perfection.
+
+---
+
+# Featured Repositories
+
+## HyperRide
+
+Hyperlocal ride-sharing platform.
+
+⭐ Flutter
+⭐ Supabase
+⭐ Realtime
+⭐ Edge Functions
+
+---
+
+## FinBot
+
+AI trading assistant with market analysis and automation.
+
+⭐ Python
+⭐ FastAPI
+⭐ PostgreSQL
+
+---
+
+## Motion Graphics Generator
+
+Automated motion graphics engine using React and Remotion.
+
+⭐ React
+⭐ Remotion
+⭐ AI
+
+---
+
+## Blockchain Projects
+
+Smart contracts, DEX experiments, and Web3 tooling.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=satwiksharma01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwiksharma01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=satwiksharma01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwiksharma01&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Learning Right Now
+
+- Distributed Systems
+- AI Agents
+- Large Language Models
+- Scalable Backend Architecture
+- Flutter
+- System Design
+
+---
+
+# Goals for 2026
+
+- Build HyperRide MVP
+- Launch FinBot publicly
+- Scale Motion Graphics Engine
+- Contribute more to Open Source
+- Build products used by thousands of users
+
+---
+
+# Let's Connect
+
+- GitHub: https://github.com/satwiksharma01
+- LinkedIn: *(Add your profile)*
+- Portfolio: *(Coming Soon)*
+
+---
+
+<div align="center">
+
+### "Build. Ship. Learn. Repeat."
+
+</div>
