@@ -1,7 +1,7 @@
 ## Hi, I'm Satwik
 
 Aerospace engineering student who builds software: AI tools, full-stack products and physics code.
-I like problems where "correct" can be checked. Frameflow re-transcribes every cut it makes to prove no words were lost; my flight-performance simulator is covered by 150 tests and checked against an independent Python reference that agrees to 1e-8.
+I like problems where "correct" can be checked. Frameflow re-transcribes every cut it makes to prove no words were lost; my flight-performance simulator is covered by 169 tests and checked against an independent Python reference that agrees to 1e-8.
 
 **Python · TypeScript · Java · Kotlin** &nbsp;—&nbsp; React · Astro · TanStack Start · Supabase / Postgres · Remotion · FFmpeg · Claude & OpenAI APIs
 
