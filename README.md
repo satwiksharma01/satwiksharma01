@@ -1,46 +1,38 @@
 ## Hi, I'm Satwik
 
-Aerospace engineering student who builds software: AI tools, full-stack products and physics code.
-I like problems where "correct" can be checked. Frameflow re-transcribes every cut it makes to prove no words were lost; my flight-performance simulator is covered by 169 tests and checked against an independent Python reference that agrees to 1e-8.
+I'm an aerospace engineering student building physics simulators, AI video tools, and practical software. I like projects where I can explain the decisions and check the results.
 
-**Python · TypeScript · Java · Kotlin** &nbsp;—&nbsp; React · Astro · TanStack Start · Supabase / Postgres · Remotion · FFmpeg · Claude & OpenAI APIs
-
-<!-- Uncomment once filled in:
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://YOUR-SITE) · [Email](mailto:YOUR-PUBLIC-EMAIL)
--->
-
----
+**Python · TypeScript · Java** — React · Remotion · FFmpeg · MLT
 
 ### Featured work
 
-#### [Frameflow](https://github.com/satwiksharma01/frameflow)
-An AI editor that makes the first cut of a raw recording **as a fully editable Shotcut project**, never a flattened render. Every kept span is a real clip with a written reason, cut points snap to measured pauses, and every join is re-transcribed to check the words on both sides survived. Ask for changes in plain English and they land on top of your manual edits.<br>
-`Python` `whisper.cpp` `FFmpeg` `MLT` `Claude / OpenAI` · 200+ tests
+**[Flight Performance Simulator](https://github.com/satwiksharma01/flight-performance-sim)**
 
-#### [Finance Video Engine](https://github.com/satwiksharma01/motion-graphic-video-generator)
-Turns a finance script into a vertical (1080×1920) motion-graphics explainer: charts, comparisons, formulas and captions are picked scene by scene, the soundtrack follows the script's sentiment, and dramatic effects are held back when the script is educational.<br>
-`React` `Remotion` `TypeScript`
+Explore aircraft drag, climb, flight envelopes, turns, takeoff, landing, and range in the browser. The physics core is checked against an independent Python implementation and published reference data, with known model discrepancies documented.
 
-#### [Expense Tracker](https://github.com/satwiksharma01/expense-tracker)
-A terminal finance manager in plain Java 17 with zero dependencies. Budgets with alerts, recurring payments that never duplicate or drift, and monthly reports with ASCII charts and month-end projections.<br>
-`Java 17` · 52 tests on a home-made, reflection-based test runner
+[Try the simulator](https://satwiksharma01.github.io/flight-performance-sim/) · [Explore validation](https://satwiksharma01.github.io/flight-performance-sim/validation.html)
 
----
+**[Frameflow](https://github.com/satwiksharma01/frameflow)**
 
-### In the hangar
+Turn a recording into a first cut that stays editable in Shotcut. AI proposes editorial changes; deterministic code places cuts, writes the timeline, and checks the result. Later changes account for manual edits, with previous project versions kept in history.
 
-- **Flight Performance Simulator**: aircraft performance analysis in the browser. v0.2 is working: layered ISA atmosphere, TAS/EAS/CAS/Mach, drag polars and the full set of performance curves, redrawn live at 60 fps as you drag the sliders. Propulsion and climb are next.
-- **OffSetu**: an Android app for offline UPI payments over `*99#`. Scan any UPI QR and it drives the USSD menus for you, with no internet and no servers.
-- **Orbital Manoeuvre Decision Support Tool**: recommends a transfer between circular orbits (Hohmann, bi-elliptic, one-tangent, Edelbaum low-thrust) using numerical optimisation and multi-criteria scoring. Built in MATLAB and Python, with a web planner.
+**[Expense Tracker](https://github.com/satwiksharma01/expense-tracker)**
 
-<!-- Freelance: uncomment after the client signs off and the photos are replaced
-### Client work
+A command-line finance manager in Java 17 with no external dependencies. Includes budgets, recurring payments, CSV import/export, and monthly reports, with tests for validation, storage, and recurring-payment behavior.
 
-- **[GYM @ 365 DAYS](https://LIVE-URL)**: website for a gym in Indore. Built in Astro with one typed config for every business fact, WhatsApp-first enquiries, and a build that refuses to ship unverified details.
--->
+**[Finance Video Engine](https://github.com/satwiksharma01/motion-graphic-video-generator)**
 
----
+Render structured finance scripts as vertical videos using React and Remotion, with reusable charts, comparisons, formulas, and generated captions.
+
+### Open-source contributions
+
+Recent merged contributions to [OpenScreen](https://github.com/getopenscreen/openscreen):
+
+- [Preserve audio timing during transcription extraction](https://github.com/getopenscreen/openscreen/pull/1076).
+- [Preserve recorded cursor visibility in agent observations](https://github.com/getopenscreen/openscreen/pull/1075).
+- [Add standard AppImage update metadata](https://github.com/getopenscreen/openscreen/pull/1072).
+- [Remove the libfuse2 dependency from AppImages](https://github.com/getopenscreen/openscreen/pull/1070).
+
+I use AI assistance in my development workflow; the linked pull requests describe the changes and validation.
 
 <sub>Currently learning distributed systems and agent design.</sub>
-<!-- Optional, if true: <sub>Open to internships in AI tooling, aerospace software and product engineering.</sub> -->
-
