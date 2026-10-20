@@ -2,7 +2,7 @@
 
 Aerospace Engineering student at VIT Bhopal building engineering software at the intersection of **aerospace, simulation, and software development**.
 
-I'm developing individual aerospace tools now, with a long-term goal of integrating them into a **web-accessible Aerospace Engineering Suite**. Each tool is being built and validated independently before integration.
+I'm building aerospace tools and love experimenting with technology, AI, and software to solve interesting engineering problems.
 
 **Python · TypeScript · MATLAB · Java** — React · Numerical modelling · Simulation · Automated testing
 
@@ -32,13 +32,15 @@ The tool includes MATLAB/Simulink models, a Python cross-check, an interactive w
 
 **[Expense Tracker](https://github.com/satwiksharma01/expense-tracker)** — Java 17 command-line finance manager with budgets, recurring payments, CSV import/export, and monthly reports.
 
-**[Finance Video Engine](https://github.com/satwiksharma01/motion-graphic-video-generator)** — Render structured finance scripts as vertical videos using React and Remotion.
+**[Motion Graphic Video Generator](https://github.com/satwiksharma01/motion-graphic-video-generator)** — Render structured finance scripts as vertical videos using React and Remotion.
 
 ### How I build
 
-- Separate engineering models and decision logic from the interface.
-- Validate calculations with tests, independent implementations, and published references where available.
-- Document assumptions, known limitations, and trade-offs so results can be inspected and reproduced.
+- I approach problems systematically: understand the problem, break it down, research possible solutions, and reason through the trade-offs before building.
+- I document my projects properly, from vision and requirements to technical decisions, research findings, milestones, and unresolved questions.
+- I invest time in brainstorming and exploring alternatives before committing to an approach. I believe understanding the problem is just as important as implementing the solution.
+- I use AI, automation, and the right tools to work smarter, move faster, and focus my effort where it matters most.
+- I prioritise correctness, simplicity, and reliability over flashy demos or unnecessary complexity. I test my work, verify results, and keep improving until the solution is solid.
 
 ### Open-source contributions
 
