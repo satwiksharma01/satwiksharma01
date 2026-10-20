@@ -1,52 +1,54 @@
 ## Hi, I'm Satwik
 
-I'm an aerospace engineering student moving into software engineering. I build software for simulation, automation, and creative workflows, bringing an interest in physical systems and a habit of checking results.
+Aerospace Engineering student at VIT Bhopal building engineering software at the intersection of **aerospace, simulation, and software development**.
 
-**Python · TypeScript · Java** — React · Remotion · FFmpeg · MLT
+I'm developing individual aerospace tools now, with a long-term goal of integrating them into a **web-accessible Aerospace Engineering Suite**. Each tool is being built and validated independently before integration.
 
-### Featured work
+**Python · TypeScript · MATLAB · Java** — React · Numerical modelling · Simulation · Automated testing
+
+### Aerospace Engineering Suite — in development
+
+A growing collection of computational tools for aerospace analysis. The projects are currently independent; the unified suite is a long-term direction, not an integrated product yet.
 
 **[Flight Performance Simulator](https://github.com/satwiksharma01/flight-performance-sim)**
 
-Explore aircraft drag, climb, flight envelopes, turns, takeoff, landing, and range in the browser. The physics core is checked against an independent Python implementation and published reference data, with known model discrepancies documented.
+Aircraft performance analysis in the browser: drag and power curves, climb, ceilings, glide, flight envelopes, turn performance, takeoff and landing, range, cruise, aircraft comparison, and sensitivity analysis.
 
-[Try the simulator](https://satwiksharma01.github.io/flight-performance-sim/) · [Explore validation](https://satwiksharma01.github.io/flight-performance-sim/validation.html)
+The TypeScript physics core is cross-checked against an independent Python implementation and published references, including Cessna 172S POH data. Known discrepancies are documented rather than hidden.
 
-[Engineering decisions](https://github.com/satwiksharma01/flight-performance-sim#design-notes)
+[Launch the simulator](https://satwiksharma01.github.io/flight-performance-sim/) · [Review validation results](https://satwiksharma01.github.io/flight-performance-sim/validation.html) · [Engineering decisions](https://github.com/satwiksharma01/flight-performance-sim#design-notes)
 
-**[Frameflow](https://github.com/satwiksharma01/frameflow)**
+**[Orbital Manoeuvre Decision Support Tool](https://github.com/satwiksharma01/orbital-manoeuvre-decision-support)**
 
-Turn a recording into a first cut that stays editable in Shotcut. AI proposes editorial changes; deterministic code places cuts, writes the timeline, and checks the result. Later changes account for manual edits, with previous project versions kept in history.
+A decision-support tool that sizes, optimises, filters, and ranks orbital transfer options against mission constraints and priorities. It compares Hohmann, plane-change, bi-elliptic, one-tangent, and Edelbaum low-thrust transfers.
 
-[Try the lightweight demo](https://github.com/satwiksharma01/frameflow#try-the-core-logic-in-two-minutes) · [Engineering decisions](https://github.com/satwiksharma01/frameflow/blob/master/docs/ENGINEERING.md)
+The tool includes MATLAB/Simulink models, a Python cross-check, an interactive web planner, and verification against textbook benchmarks and NASA GMAT R2026a.
 
-**[Expense Tracker](https://github.com/satwiksharma01/expense-tracker)**
+[Launch the web planner](https://satwiksharma01.github.io/orbital-manoeuvre-decision-support/web/) · [Review the engineering and verification](https://github.com/satwiksharma01/orbital-manoeuvre-decision-support)
 
-A command-line finance manager in Java 17 with no external dependencies. Includes budgets, recurring payments, CSV import/export, and monthly reports, with tests for validation, storage, and recurring-payment behavior.
+### Other work
 
-[Architecture and storage decisions](https://github.com/satwiksharma01/expense-tracker/blob/main/docs/DESIGN.md)
+**[Frameflow](https://github.com/satwiksharma01/frameflow)** — AI-assisted video editing that keeps the timeline editable in Shotcut, with deterministic editing logic and project history.
 
-**[Finance Video Engine](https://github.com/satwiksharma01/motion-graphic-video-generator)**
+**[Expense Tracker](https://github.com/satwiksharma01/expense-tracker)** — Java 17 command-line finance manager with budgets, recurring payments, CSV import/export, and monthly reports.
 
-Render structured finance scripts as vertical videos using React and Remotion, with reusable charts, comparisons, formulas, and generated captions.
-
-[Example and setup](https://github.com/satwiksharma01/motion-graphic-video-generator#render-the-example) · [Engineering decisions](https://github.com/satwiksharma01/motion-graphic-video-generator/blob/main/docs/ENGINEERING.md)
+**[Finance Video Engine](https://github.com/satwiksharma01/motion-graphic-video-generator)** — Render structured finance scripts as vertical videos using React and Remotion.
 
 ### How I build
 
-- Separate the model or decision-making layer from deterministic application logic.
-- Check results with tests, independent references, or reproducible examples, depending on the problem.
-- Document tradeoffs and limitations so someone else can assess and extend the work.
+- Separate engineering models and decision logic from the interface.
+- Validate calculations with tests, independent implementations, and published references where available.
+- Document assumptions, known limitations, and trade-offs so results can be inspected and reproduced.
 
 ### Open-source contributions
 
 Recent merged contributions to [OpenScreen](https://github.com/getopenscreen/openscreen):
 
-- [Preserve audio timing during transcription extraction](https://github.com/getopenscreen/openscreen/pull/1076).
-- [Preserve recorded cursor visibility in agent observations](https://github.com/getopenscreen/openscreen/pull/1075).
-- [Add standard AppImage update metadata](https://github.com/getopenscreen/openscreen/pull/1072).
-- [Remove the libfuse2 dependency from AppImages](https://github.com/getopenscreen/openscreen/pull/1070).
+- [Preserve audio timing during transcription extraction](https://github.com/getopenscreen/openscreen/pull/1076)
+- [Preserve recorded cursor visibility in agent observations](https://github.com/getopenscreen/openscreen/pull/1075)
+- [Add standard AppImage update metadata](https://github.com/getopenscreen/openscreen/pull/1072)
+- [Remove the libfuse2 dependency from AppImages](https://github.com/getopenscreen/openscreen/pull/1070)
 
 I use AI assistance in my development workflow; the linked pull requests describe the changes and validation.
 
-<sub>Currently learning distributed systems and agent design.</sub>
+<sub>Currently focused on aerospace simulation, numerical methods, and engineering software.</sub>
