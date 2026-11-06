@@ -53,4 +53,8 @@ Recent merged contributions to [OpenScreen](https://github.com/getopenscreen/ope
 
 I use AI assistance in my development workflow; the linked pull requests describe the changes and validation.
 
+### Contribution graph
+
+![3D contribution graph — Night Rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <sub>Currently focused on aerospace simulation, numerical methods, and engineering software.</sub>
